@@ -29,7 +29,8 @@ INSTALLED_APPS = [
 EXTRA_APPS = [
     'students',
     'api',
-    'employees'
+    'employees',
+    'blogs'
 ]
 
 INSTALLED_APPS.extend(EXTRA_APPS)
